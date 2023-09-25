@@ -1,0 +1,81 @@
+.container {
+  display: flex;
+}
+
+.left-pane {
+  flex: 0.8; /* 70% of the container width */
+  background-color: #f0f0f0;
+  padding: 10px;
+}
+
+.right-pane {
+  flex: 0.2; /* 30% of the container width */
+  background-color: #e0e0e0;
+  padding: 10px;
+}
+
+
+
+.logo {
+  margin-top: 40px;
+  margin-bottom: 100px; /* Adjust the margin as needed */
+}
+
+.middle {
+  margin-bottom: 200px; /* Adjust the margin as needed */
+}
+
+.bottom {
+  margin-top: 20px; /* Adjust the margin as needed */
+}
+.dashboard{
+  margin-bottom: 20px; /* Adjust the margin as needed */
+}
+.artists{
+  margin-bottom: 20px; /* Adjust the margin as needed */
+}
+.sales{
+  margin-bottom: 20px; /* Adjust the margin as needed */
+}
+
+.logout{
+  margin-bottom: 20px; /* Adjust the margin as needed */
+}
+.settings{
+  margin-bottom: 20px; /* Adjust the margin as needed */
+}
+.search{
+  margin-top: 50px; /* Adjust the margin as needed */
+width: 70%;
+height: 30px;
+}
+
+.randomtext{
+  margin-top: 90px;
+  position: relative;
+  right: 530px;
+  margin-bottom: 20px;
+}
+.card{
+  color: blue;
+  background-color: black;
+  width:250px;
+  height:90px
+}
+.card2{
+  color: blue;
+  background-color: black;
+  width:250px;
+  height:90px;
+  position: relative;
+  right:594px;
+}
+.cards{
+  display: flex;
+  justify-content: space-between;
+  left:20px;
+  position: relative;
+}
+.data{
+  margin-top: 0px;
+}

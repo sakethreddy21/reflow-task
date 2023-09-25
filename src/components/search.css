@@ -1,0 +1,13 @@
+.table{
+  width: 100%;
+}
+.search_sec{
+  margin-bottom: 40px;
+  left:400px;
+  position: relative;
+}
+.artist{
+  position: relative;
+  right:500px;
+  bottom:-20px
+}
